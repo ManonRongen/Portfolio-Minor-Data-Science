@@ -13,16 +13,10 @@ een filelink:
 <details>
   <summary>Reinforcement Learning</summary>
   
-  ### Click Here
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  ### RL bron
+  1. link
+  2. link
+  
+  ...
+  
 </details>
