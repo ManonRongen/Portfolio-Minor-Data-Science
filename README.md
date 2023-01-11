@@ -10,6 +10,8 @@ een filelink:
 
 ## .. Literatuuronderzoek
 
+[link mijn omschrijving](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Literatuuronderzoek%20Manon%20Rongen)
+
 <details>
   <summary>Reinforcement Learning</summary>
   
