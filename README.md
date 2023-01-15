@@ -1,6 +1,6 @@
 # Portfolio Minor Data Science
 
-Manon Rongen
+Manon Rongen,
 19075235
 
 ## 1. Inleiding
