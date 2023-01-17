@@ -9,7 +9,21 @@ Manon Rongen,
 ### 1.2 Project Foodboost
 
 ### 1.3 Project Cofano
+<details>
+  <summary>Inleiding project</summary>
+  
+  ### RL bron
+  Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano dit zo snel mogelijk doen. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt. Daar gaan wij ons mee bezig houden.
 
+</details>
+
+<details>
+  <summary>Inleiding project</summary>
+  
+  ### RL bron
+  Wij hebben de 2 laatste periodes aan dit project gewerkt (dus 8 weken). Toen wij startte besloten we een deel van het probleem aan te pakken: namelijk de indeling op de kade, zonder rekening te houden met de volgorde van de containers die binnen komen. We maken de indeling dus zo, dat deze optimaal is voor schepen die ze op komen halen. 
+
+</details>
 
 ## 2. Kennis en Literatuur
 
