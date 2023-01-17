@@ -13,6 +13,7 @@ groep 1
 <details>
   <summary>Inleiding project</summary>
   
+  
   Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano dit zo snel mogelijk doen. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt. Daar gaan wij ons mee bezig houden.
 
 </details>
