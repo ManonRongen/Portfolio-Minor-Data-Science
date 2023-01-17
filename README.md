@@ -11,14 +11,14 @@ groep 1
 
 ### 1.3 Project Cofano
 <details>
-  <summary>**Inleiding project**</summary>
+  <summary>Inleiding project</summary>
   
   Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano dit zo snel mogelijk doen. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt. Daar gaan wij ons mee bezig houden.
 
 </details>
 
 <details>
-  <summary>**Aanpak groep**</summary>
+  <summary>Aanpak groep</summary>
   
   Wij hebben de 2 laatste periodes aan dit project gewerkt (8 weken).
   
@@ -33,21 +33,21 @@ groep 1
 
 ### 2.2 Cofano
 <details>
-  <summary>**Literatuuronderzoek CSP**</summary>
+  <summary>Literatuuronderzoek CSP</summary>
   
-  ....
+  In de eerste week heb ik Literatuuronderzoek gedaan en best wat papers gelezen over Het Container Stacking Problem, want ik kwam er achter dat dit redelijk leek op het probleem waar wij mee bezig zijn. Het gaat daar ook om terminalprocessen optimaliseren, zo dat schepen niet lang aan de kade hoeven te wachten. Er zijn veel verschillende kanten van dit probleem en ik heb meerdere papers gelezen die net anders het probleem aanpakte. Ik heb in [dit](link) document een samenvattingetje voor mezelf gemaakt van papers die ik nuttig vond (papers die ik minder relvant vond heb ik maar heel kort omschreven).
 
 </details>
 
 <details>
-  <summary>**Verdiepen in RL**</summary>
+  <summary>Verdiepen in RL</summary>
   
-  ....
+  We hadden bij andere groepen al gehoord dat zij Reinforcement Learning (RL) gebruikte toen wij begonnen aan het project. Jeroen had ons tijdens een van de eerste gesprekken ook RL uitgelegd en verteld waarom het handig was dit te gebruiken.
 
 </details>
 
 <details>
-  <summary>**Environment maken**</summary>
+  <summary>Environment maken</summary>
   
   ....
 
