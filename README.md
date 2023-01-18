@@ -60,7 +60,7 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
   <summary>Environment maken</summary>
     ...
   
-  Met de volgende video heb ik geleerd hoe ik een eigen environment moet bouwen: [video](link). Ik heb het derde project uit deze video mee gedaan en stap voor stap geprobeerd te begrijpen wat er precies gebeurd. Dat voorbeeld is te zien in dit [Notebook](link) en mijn [aantekeningen](link).
+  Met de volgende video heb ik geleerd hoe ik een eigen environment moet bouwen: [video](https://www.youtube.com/watch?v=Mut_u40Sqz4). Ik heb het derde project uit deze video mee gedaan en stap voor stap geprobeerd te begrijpen wat er precies gebeurd. Dat voorbeeld is te zien in dit [Notebook](link) en mijn [aantekeningen](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/environment%20douche%20-%20video.pdf).
   
   Vervolgens gingen we allemaal aan de slag met het maken van een environment met ons probleem. Ik heb toen Jesse uit de andere groep gevraagd om ons een keer te helpen en die heeft toen nog wat tips gegeven, waarmee ik tot [deze environment code](link) voor een 3 bij 3 grid kwam. Later is dit nog wat uitgebreid en verbeterd, maar het werkte nu wel.
 </details>
