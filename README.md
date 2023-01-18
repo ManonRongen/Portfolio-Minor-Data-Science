@@ -81,6 +81,7 @@ een filelink:
 ## 5. Paper Cofano
 
 ## 6. DataCamp
+Ik heb ongeveer 94% van de [DataCamp Courses]() afgerond.
 
 ## 7. Reflectie
 ### 7.1 Mijn Contributie
