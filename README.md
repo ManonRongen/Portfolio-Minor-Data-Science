@@ -81,7 +81,7 @@ een filelink:
 ## 5. Paper Cofano
 
 ## 6. DataCamp
-Ik heb ongeveer 94% van de [DataCamp Courses]() afgerond.
+Ik heb ongeveer 94% van de [DataCamp Courses](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/DataCamp%20voltooid%20schermafbeelding.pdf) afgerond.
 
 ## 7. Reflectie
 ### 7.1 Mijn Contributie
