@@ -84,8 +84,8 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb.
 
 ### 3.1 Foodboost
-een filelink:
-[classifier tomaat](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_Classifier_Tomaat_Foodboost%20(1).ipynb)
+- [Lineaire Regressie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/LinaireRegressie%20Nutritions%20Foodboost.ipynb)
+- [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
 ### 3.2 Cofano
 
