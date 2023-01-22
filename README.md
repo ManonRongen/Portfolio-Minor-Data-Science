@@ -96,10 +96,11 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
 <details>
   <summary>Mijn presentaties</summary>
     Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles erin gezet, maar stukken van de gehele presentatie die ik gepresenteerd heb.
+</details>
+
   *Foodboost*:
   - [een interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pptx)
   *Cofano*:
-</details>
 
 ## 5. Paper Cofano
 
