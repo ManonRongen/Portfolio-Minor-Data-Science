@@ -99,7 +99,7 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
 </details>
 
 **Foodboost**:
-  - [een interne presentatie]([https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pptx](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pptx))
+  - [een interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pptx)
 
 **Cofano**:
 
