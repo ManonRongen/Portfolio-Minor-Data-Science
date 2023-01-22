@@ -15,12 +15,8 @@ groep 1
 
 <details>
   <summary>Verloop project</summary>
-  In [dit document](link) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen.
+  In [dit document](link) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
 </details>
-
-Resultaten + Conclusie
-
-Discussie + Aanbevelingen
 
 ### 1.3 Project Cofano
 <details>
@@ -84,6 +80,7 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb.
 
 ### 3.1 Foodboost
+- [Data preprocessing](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Data%20voorbereiden%20klein%20classificatie%20model%20Foodboost.ipynb)
 - [Lineaire Regressie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/LinaireRegressie%20Nutritions%20Foodboost.ipynb)
 - [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
