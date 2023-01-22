@@ -25,7 +25,7 @@ groep 1
 </details>
 
 <details>
-  <summary>Aanpak groep</summary>
+  <summary>Verloop project</summary>
   Wij hebben de 2 laatste periodes aan dit project gewerkt (8 weken).
   Toen wij startten besloten we maar een klein deel van het probleem aan te pakken. Namelijk de indeling op de kade, zonder rekening te houden met de volgorde van de containers die binnen komen. We maken de indeling dus zo, dat deze optimaal is voor schepen die ze op komen halen. Tijdens de eerste presentatie van dit project had ik (want ik zou presenteren) geprobeerd ons doel te verwoorden: "Het vinden van een indeling van containers in de terminal, zo dat de tijd dat de zeevaartschepen aan de kade liggen minimaal is." Zo zijn we later met de hele groep tot de volgende onderzoeksvraag gekomen: "...?"
    ...
@@ -81,37 +81,28 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
 
 ### 3.1 Foodboost
 - [Data preprocessing](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Data%20voorbereiden%20klein%20classificatie%20model%20Foodboost.ipynb)
-- [Ingrediënten groepren](link)
+- [Ingrediënten groeperen](link)
 - [Lineaire Regressie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/LinaireRegressie%20Nutritions%20Foodboost.ipynb)
 - [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
 ### 3.2 Cofano
 
-
 ## 4. Presentaties
+<details>
+  <summary>Mijn rol</summary>
+    Op het gebied van presenteren heb ik een grote rol gespeeld. Ik nam initiatief de eerste presentatie te doen en heb daarin eigenlijk gedurende beide projecten grotendeels de leiding genomen. Ik maakte vaak de powerpoint aan en zorgde dat er taken verdeeld werden en dat we altijd iets lieten zien. Ik heb bijna alle interne presentaties gepresenteerd en ook een van de externe presentaties met joeri op me genomen.
+</details>
+
+<details>
+  <summary>Mijn presentaties</summary>
+    Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles erin gezet, maar stukken van de gehele presentatie die ik gepresenteerd heb.
+  *Foodboost*:
+  - [een interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pptx)
+  *Cofano*:
+</details>
 
 ## 5. Paper Cofano
 
 ## 6. DataCamp
 Ik heb ongeveer 94% van de [DataCamp Courses](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/DataCamp%20voltooid%20schermafbeelding.pdf) afgerond.
 
-## 7. Reflectie
-### 7.1 Mijn Contributie
-
-### 7.2 Wat ik heb geleerd
-
-### 7.3 Groepsprojecten
-#### 7.3.1 Foodboost
-#### 7.3.2 Cofano
-
-## Uitproberen github:
-
-[link mijn omschrijving](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Literatuuronderzoek%20Manon%20Rongen)
-
-<details>
-  <summary>## Reinforcement Learning</summary>
-  
-  ### RL bron
-  ...
-  
-</details>
