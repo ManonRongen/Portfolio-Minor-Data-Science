@@ -8,17 +8,19 @@ groep 1
 ### 1.1 Inhoud
 
 ### 1.2 Project Foodboost
-*<details>
+<details>
   <summary>Inleiding project</summary>
   Tijdens dit project hebben we ons bezig gehouden met voeding en het zoeken naar een gebalanceerd dieet met behulp van Data Science. Zelf goede recepten vinden om een dieet mee vol te houden is moeilijk en als je een app gebruikt wil je wel dat deze rekening kan houden met jouw persoonlijke voorkeuren, allergiën en dergelijke. Het is mogelijk met Data Science op basis van data te voorspellen of iemand een recept lekker vindt en samen met technieken als Lineair Programmeren is het misschien mogelijk een optimale weekplanning van recepten te maken, die rekening houdt met alle eisen (van het dieet, voor genoeg variatie + andere restricties).
-</details>*
+</details>
 
-Doelstelling + Onze Aanpak
+<details>
+  <summary>Verloop project</summary>
+  In [dit document](link) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen.
+</details>
 
 Resultaten + Conclusie
 
 Discussie + Aanbevelingen
-
 
 ### 1.3 Project Cofano
 <details>
@@ -32,6 +34,7 @@ Discussie + Aanbevelingen
   Toen wij startten besloten we maar een klein deel van het probleem aan te pakken. Namelijk de indeling op de kade, zonder rekening te houden met de volgorde van de containers die binnen komen. We maken de indeling dus zo, dat deze optimaal is voor schepen die ze op komen halen. Tijdens de eerste presentatie van dit project had ik (want ik zou presenteren) geprobeerd ons doel te verwoorden: "Het vinden van een indeling van containers in de terminal, zo dat de tijd dat de zeevaartschepen aan de kade liggen minimaal is." Zo zijn we later met de hele groep tot de volgende onderzoeksvraag gekomen: "...?"
    ...
 </details>
+
 
 ## 2. Kennis en Literatuur
 In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken hadden met het project en Data Science.
