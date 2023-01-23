@@ -15,7 +15,7 @@ groep 1
 
 <details>
   <summary>Verloop project</summary>
-  In [dit document](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Foodboost%20Aanpak%20en%20doelstelling.docx) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
+  In [dit document]() is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
 </details>
 
 ### 1.3 Project Cofano
@@ -41,16 +41,6 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
     In deze eerste periode van de minor heb ik gewerkt aan DataCamp Courses, ben ik bij de Lectures over Data Science aanwezig geweest en heb ik in NoteBooks geexpirimenteerd met het maken van Simpele Modellen. Zo ben ik me gaan verdiepen in Data Science en heb ik ook veel geleerd over Classification modellen, wat hetgene is dat we voor dit project nodig zouden hebben.
 </details>
 
-<details>
-  <summary>...</summary>
-    ....
-</details>
-
-<details>
-  <summary>...</summary>
-    ....
-</details>
-
 ### 2.2 Cofano
 <details>
   <summary>Literatuuronderzoek CSP</summary>  
@@ -64,11 +54,13 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 <details>
   <summary>Verdiepen in RL</summary>
     We hadden bij andere groepen al gehoord dat zij Reinforcement Learning (RL) gebruikte toen wij begonnen aan het project. Jeroen had ons tijdens een van de eerste gesprekken ook RL uitgelegd en verteld waarom het handig was dit te gebruiken.
+  
+  We bestudeerde [snake](https://github.com/grantsrb/Gym-Snake) voorbeelden. Joeri en ik namen grondig dit [taxi](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) voorbeeld (alleen de code is [hier](https://casey-barr.github.io/open-ai-taxi-problem/) te vinden) door om goed te begrijpen hoe RL stap voor stap werkt. Dit heeft me erg geholpen met het begrijpen van RL.
 </details>
 
 <details>
   <summary>Environment maken</summary>
-    ...
+  Tijdens het onderzoek doen naar RL modellen, kwamen we vaak gym environments tegen (bijvoorbeeld bij het snake en taxi voorbeeld). Ook andere groepen waren hiermee aan de slag gegaan en zeiden dat het goed te gebruiken was voor dit probleem.
   
   Met de volgende video heb ik geleerd hoe ik een eigen environment moet bouwen: [video](https://www.youtube.com/watch?v=Mut_u40Sqz4). Ik heb het derde project uit deze video mee gedaan en stap voor stap geprobeerd te begrijpen wat er precies gebeurd. Dat voorbeeld is te zien in dit [Notebook](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Voorbeeld%20Environment%20Douche%20Video.ipynb) en mijn [aantekeningen](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/environment%20douche%20-%20video.pdf).
   
@@ -86,6 +78,9 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
 - [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
 ### 3.2 Cofano
+  - [3x3 yard model]
+  - [2x2x2 yard model]
+
 
 ## 4. Presentaties
 <details>
@@ -104,7 +99,22 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
   - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres4%20week8%20-%20Containers%20groep%201.pdf)
   - [externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf)
 
+
 ## 5. Paper Cofano
+<details>
+  <summary>Mijn rol</summary>
+    ...
+</details>
+
+<details>
+  <summary>Introductie</summary>
+    ...
+</details>
+
+<details>
+  <summary>Bijdrage andere stukken</summary>
+    ...
+</details>
 
 ## 6. DataCamp
 Ik heb ongeveer 94% van de [DataCamp Courses](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/DataCamp%20voltooid%20schermafbeelding.pdf) afgerond.
