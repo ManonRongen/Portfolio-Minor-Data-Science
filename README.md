@@ -108,7 +108,8 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
 
 <details>
   <summary>Introductie</summary>
-  [Hier](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Introductie%20eindversie%20paper.pdf) is de introductie te lezen die uiteindelijk in het paper is gekomen.
+    [Hier](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Introductie%20eindversie%20paper.pdf)
+  is de introductie te lezen die uiteindelijk in het paper is gekomen.
 </details>
 
 <details>
