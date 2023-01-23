@@ -97,7 +97,7 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
 **Cofano**:
   - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres1%20week2%20-%20Containers%20groep%201.pdf)
   - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres4%20week8%20-%20Containers%20groep%201.pdf)
-  - [externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf)
+  - [externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf) met [tekst](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/manon%20-%20tekst%20externe%20presentatie%201.pdf)
 
 
 ## 5. Paper Cofano*
@@ -113,7 +113,7 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
 
 <details>
   <summary>Bijdrage andere stukken</summary>
-  Ik had in steekwoorden wat over de [Conclusie en Discussie]() geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben.
+  Ik had in steekwoorden wat over de [Conclusie en Discussie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/paper%20steekwoorden%20Conclusie%20en%20Discussie.pdf) geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben.
 </details>
 
 ## 6. DataCamp
