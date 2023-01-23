@@ -15,7 +15,7 @@ groep 1
 
 <details>
   <summary>Verloop project</summary>
-  In [dit document](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Foodboost%20Aanpak%20en%20doelstelling.docx) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
+  In [dit document](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Foodboost%20Aanpak%20en%20doelstelling) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
 </details>
 
 ### 1.3 Project Cofano
