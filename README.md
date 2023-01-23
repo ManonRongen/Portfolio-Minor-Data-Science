@@ -15,7 +15,7 @@ groep 1
 
 <details>
   <summary>Verloop project</summary>
-  In [dit document](link) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
+  In [dit document](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Foodboost%20Aanpak%20en%20doelstelling.docx) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
 </details>
 
 ### 1.3 Project Cofano
@@ -93,15 +93,16 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
     Op het gebied van presenteren heb ik een grote rol gespeeld. Ik nam initiatief de eerste presentatie te doen en heb daarin eigenlijk gedurende beide projecten grotendeels de leiding genomen. Ik maakte vaak de powerpoint aan en zorgde dat er taken verdeeld werden en dat we altijd iets lieten zien. Ik heb bijna alle interne presentaties gepresenteerd en ook een van de externe presentaties met joeri op me genomen.
 </details>
 
-<details>
-  <summary>Mijn presentaties</summary>
-    Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles erin gezet, maar stukken van de gehele presentatie die ik gepresenteerd heb.
-</details>
+### 4.1 Mijn presentaties
+Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles erin gezet, maar stukken van de gehele presentatie die ik gepresenteerd heb.
 
 **Foodboost**:
-  - [een interne presentatie]()
+  - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pdf)
 
 **Cofano**:
+  - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres1%20week2%20-%20Containers%20groep%201.pdf)
+  - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres4%20week8%20-%20Containers%20groep%201.pdf)
+  - [externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf)
 
 ## 5. Paper Cofano
 
