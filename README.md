@@ -15,7 +15,7 @@ groep 1
 
 <details>
   <summary>Verloop project</summary>
-  In [dit document](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Foodboost%20Aanpak%20en%20doelstelling) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
+  In [dit document](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Foodboost%20Aanpak%20en%20doelstelling.docx) is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
 </details>
 
 ### 1.3 Project Cofano
@@ -72,7 +72,7 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
   
   Met de volgende video heb ik geleerd hoe ik een eigen environment moet bouwen: [video](https://www.youtube.com/watch?v=Mut_u40Sqz4). Ik heb het derde project uit deze video mee gedaan en stap voor stap geprobeerd te begrijpen wat er precies gebeurd. Dat voorbeeld is te zien in dit [Notebook](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Voorbeeld%20Environment%20Douche%20Video.ipynb) en mijn [aantekeningen](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/environment%20douche%20-%20video.pdf).
   
-  Vervolgens gingen we allemaal aan de slag met het maken van een environment met ons probleem. Ik heb toen Jesse uit de andere groep gevraagd om ons een keer te helpen en die heeft toen nog wat tips gegeven, waarmee ik tot [deze environment code](link) voor een 3 bij 3 grid kwam. Later is dit nog wat uitgebreid en verbeterd, maar het werkte nu wel.
+  Vervolgens gingen we allemaal aan de slag met het maken van een environment met ons probleem. Ik heb toen Jesse uit de andere groep gevraagd om ons een keer te helpen en die heeft toen nog wat tips gegeven, waarmee ik tot [deze environment code](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_simple_ENV_3x3grid.ipynb) voor een 3 bij 3 grid kwam. Later is dit nog wat uitgebreid en veel verbeterd (zoals veel uitgebreidere reward en het meegeven van de volgende container die geplaatst gaat worden aan het model), maar het werkte nu wel om een grid in te vullen zonder dubbel plaatsingen.
 </details>
 
 
