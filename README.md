@@ -113,7 +113,7 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
 
 <details>
   <summary>Bijdrage andere stukken</summary>
-  Ik had in steekwoorden wat over de [Conclusie en Discussie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/paper%20steekwoorden%20Conclusie%20en%20Discussie.pdf) geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben.
+  Ik had in steekwoorden wat over de [conclusie en discussie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/paper%20steekwoorden%20Conclusie%20en%20Discussie.pdf) geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben.
 </details>
 
 ## 6. DataCamp
