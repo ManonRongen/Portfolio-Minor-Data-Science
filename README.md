@@ -13,10 +13,7 @@ groep 1
   Tijdens dit project hebben we ons bezig gehouden met voeding en het zoeken naar een gebalanceerd dieet met behulp van Data Science. Zelf goede recepten vinden om een dieet mee vol te houden is moeilijk en als je een app gebruikt wil je wel dat deze rekening kan houden met jouw persoonlijke voorkeuren, allergiën en dergelijke. Het is mogelijk met Data Science op basis van data te voorspellen of iemand een recept lekker vindt en samen met technieken als Lineair Programmeren is het misschien mogelijk een optimale weekplanning van recepten te maken, die rekening houdt met alle eisen (van het dieet, voor genoeg variatie + andere restricties).
 </details>
 
-<details>
-  <summary>Verloop project*</summary>
-  In [dit document]() is uitgelegd hoe het project is verlopen en wat in het kort de stappen waren die we hebben genomen en wat het eindresultaat is.
-</details>
+[Verloop project]()
 
 ### 1.3 Project Cofano*
 <details>
@@ -24,12 +21,7 @@ groep 1
   Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano dit zo snel mogelijk doen. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt. Daar gaan wij ons mee bezig houden.
 </details>
 
-<details>
-  <summary>Verloop project*</summary>
-  Wij hebben de 2 laatste periodes aan dit project gewerkt (8 weken).
-  Toen wij startten besloten we maar een klein deel van het probleem aan te pakken. Namelijk de indeling op de kade, zonder rekening te houden met de volgorde van de containers die binnen komen. We maken de indeling dus zo, dat deze optimaal is voor schepen die ze op komen halen. Tijdens de eerste presentatie van dit project had ik (want ik zou presenteren) geprobeerd ons doel te verwoorden: "Het vinden van een indeling van containers in de terminal, zo dat de tijd dat de zeevaartschepen aan de kade liggen minimaal is." Zo zijn we later met de hele groep tot de volgende onderzoeksvraag gekomen: "...?"
-   ...
-</details>
+[Verloop project]()
 
 
 ## 2. Kennis en Literatuur
@@ -77,8 +69,8 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
   - [Lineaire Regressie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/LinaireRegressie%20Nutritions%20Foodboost.ipynb)
   - [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
-### 3.2 Cofano*
-  - [Reward functie 3x3 yard - 1 game*]()
+### 3.2 Cofano
+  - [Reward functie 3x3 yard - 1 game](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/game_and_score_3x3-Copy1.ipynb)
   - [3x3 yard model](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_Env_RL_3x3_snellersimpeler_optimaal.ipynb)
   - [2x2x2 yard model](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_Env_RL_2x2x2_optimaal.ipynb)
 
