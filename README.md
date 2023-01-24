@@ -110,12 +110,14 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
   <summary>Introductie</summary>
   Hieronder is de introductie te lezen die uiteindelijk in het paper is gekomen.
 </details>
+
 [Introductie door Manon](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Introductie%20eindversie.pdf)
 
 <details>
   <summary>Bijdrage andere stukken</summary>
   Ik had in steekwoorden wat over de Conclusie en Discussie geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben. Daarnaast heb ik stukjes in de aanbevelingen geschreven (over de schaalbaarheid en rewardfunctie). In het document hieronder staan de steekwoorden en daarna de stukken zoals ze in het paper zijn gekomen.
 </details>
+
 [Conclusie en Discussie steekwoorden + eindresultaat](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/paper%20steekwoorden%20Conclusie%20en%20Discussie%20(1).pdf)
 
 ## 6. DataCamp
