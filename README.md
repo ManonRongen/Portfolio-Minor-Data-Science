@@ -39,7 +39,17 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
   
   
   In de eerste week heb ik Literatuuronderzoek gedaan en best wat papers gelezen over Het Container Stacking Problem, want ik kwam er achter dat dit redelijk leek op het probleem waar wij mee bezig zijn. Het gaat daar ook om terminalprocessen optimaliseren, zo dat schepen niet lang aan de kade hoeven te wachten. Er zijn veel verschillende kanten van dit probleem en ik heb meerdere papers gelezen die net anders het probleem aanpakte. Ik heb in [dit](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Literatuuronderzoek%20CSP.pdf) document een samenvattingetje voor mezelf gemaakt van papers die ik nuttig vond (papers die ik minder relvant vond heb ik maar heel kort omschreven).
-  [1](link)
+  
+  Dit zijn de linkjes van die papers (mocht u iets na willen lezen):
+  [1](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/New%20Heuristic%20Reinforcement%20Learning%20for%20Container%20Relocation%20Problem.pdf)
+  [2](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Deep%20reinforcement%20learning%20for%20solving%20the%20single%20container%20loading%20problem.pdf)
+  [3](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Ant%20Colony%20Optimization%20for%20Solving%20the%20Container%20Stacking%20Problem.pdf)
+  [4](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/An%20implementation%20of%20a%20reinforcement%20learning%20based%20algorithm%20for%20factory%20layout%20planning.pdf)
+  [5](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/METHOD%20INTEGRATING%20SIMULATION%20AND%20REINFORCEMENT.pdf)
+  [6](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/An_artificial_intelligence_planning_tool_for_the_container_stacking_problem.pdf)
+  [7](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/HEURISTIC-BASED%20MODEL%20FOR%20CONTAINER%20STACKING%20PROBLEM.pdf)
+  [8](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Ant%20Colony%20Optimization%20for%20Solving%20the%20Container%20Stacking%20Problem.pdf)
+  [9](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/A%20Fuzzy%20Logic%20Model%20for%20the%20Container%20Stacking%20Problem%20at%20Container%20Terminals.pdf)
 
   
 </details>
