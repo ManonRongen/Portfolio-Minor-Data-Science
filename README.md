@@ -106,10 +106,9 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
   Tijdens het werken aan paper heb ik mij erg ingezet en veel input geleverd. Ik heb ervoor gezorgd, samen met joeri die ook veel initiatief nam in het organiseren, dat er duidelijke afspraken kwamen, ben bij alle werksessies volle tijd aanwezig geweest en heb mijn taken netjes op tijd afgerond. Joeri en ik hadden 9 januari samen een opzet geschreven voor het paper en die vervolgens met de groep besproken, zodat we op tijd (14 januari) feedback konden vragen van Tony. Hij heeft ons toen geholpen met het afmaken van de opzet en we hebben taken verdeeld voor de eerste stukken van het paper: Introductie zou ik doen, Onderzoeksopzet deden Hidde en Joeri, Bonno begon met de resultaten en Mohamed en Micheal gingen wat stukjes over hun eigen onderdelen schrijven. Na de vakantie zouden we samen aan de andere stukken schrijven. Ik heb toen, naast de introductie verbeteren en afmaken, gewerkt aan de conclusie en sommige aanbevelingen samen met de rest. Daarnaast heb ik het paper in meerdere fases grondig doorgelezen en veel opmerkingen geplaatst.
 </details>
 
-[Hier]
-<details>[hier]
-  <summary>Introductie</summary>[hier]
-    (https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Introductie%20eindversie%20paper.pdf)
+<details>
+  <summary>Introductie</summary>
+  [Hier](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Introductie%20eindversie%20paper.pdf)
   is de introductie te lezen die uiteindelijk in het paper is gekomen.
 </details>
 
