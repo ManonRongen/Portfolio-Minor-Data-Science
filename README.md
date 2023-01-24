@@ -78,6 +78,7 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
   - [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
 ### 3.2 Cofano*
+  - [Reward functie 3x3 yard - 1 game]()
   - [3x3 yard model](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_Env_RL_3x3_snellersimpeler_optimaal.ipynb)
   - [2x2x2 yard model](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_Env_RL_2x2x2_optimaal.ipynb)
 
