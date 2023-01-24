@@ -100,7 +100,10 @@ Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles eri
   - [externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf) met [tekst](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/manon%20-%20tekst%20externe%20presentatie%201.pdf)
 
 
-## 5. Paper Cofano*
+## 5. Paper Cofano
+
+[Het research paper over het containerproject - groep 1](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Projectgroep%201%20Research%20Paper.pdf)
+
 <details>
   <summary>Mijn rol</summary>
   Tijdens het werken aan paper heb ik mij erg ingezet en veel input geleverd. Ik heb ervoor gezorgd, samen met joeri die ook veel initiatief nam in het organiseren, dat er duidelijke afspraken kwamen, ben bij alle werksessies volle tijd aanwezig geweest en heb mijn taken netjes op tijd afgerond. Joeri en ik hadden 9 januari samen een opzet geschreven voor het paper en die vervolgens met de groep besproken, zodat we op tijd (14 januari) feedback konden vragen van Tony. Hij heeft ons toen geholpen met het afmaken van de opzet en we hebben taken verdeeld voor de eerste stukken van het paper: Introductie zou ik doen, Onderzoeksopzet deden Hidde en Joeri, Bonno begon met de resultaten en Mohamed en Micheal gingen wat stukjes over hun eigen onderdelen schrijven. Na de vakantie zouden we samen aan de andere stukken schrijven. Ik heb toen, naast de introductie verbeteren en afmaken, gewerkt aan de conclusie en sommige aanbevelingen samen met de rest. Daarnaast heb ik het paper in meerdere fases grondig doorgelezen en veel opmerkingen geplaatst.
