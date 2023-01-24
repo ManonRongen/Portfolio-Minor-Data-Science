@@ -39,6 +39,7 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
   
   
   In de eerste week heb ik Literatuuronderzoek gedaan en best wat papers gelezen over Het Container Stacking Problem, want ik kwam er achter dat dit redelijk leek op het probleem waar wij mee bezig zijn. Het gaat daar ook om terminalprocessen optimaliseren, zo dat schepen niet lang aan de kade hoeven te wachten. Er zijn veel verschillende kanten van dit probleem en ik heb meerdere papers gelezen die net anders het probleem aanpakte. Ik heb in [dit](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Literatuuronderzoek%20CSP.pdf) document een samenvattingetje voor mezelf gemaakt van papers die ik nuttig vond (papers die ik minder relvant vond heb ik maar heel kort omschreven).
+  [1](link)
 
   
 </details>
