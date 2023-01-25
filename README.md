@@ -86,8 +86,9 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 ## 3. Notebooks
 <details>
   <summary> </summary>
-In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb. Deze notebooks zijn door mij alleen gemaakt, maar soms natuurlijk wel in overleg of met hulp van anderen.
-  <details>
+  In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb. Deze notebooks zijn door mij alleen gemaakt, maar soms natuurlijk wel in overleg of met hulp van anderen.
+
+<details>
 
 ### 3.1 Foodboost
   - [Data preprocessing](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Data%20voorbereiden%20klein%20classificatie%20model%20Foodboost.ipynb)
