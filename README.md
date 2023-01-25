@@ -31,7 +31,7 @@ groep 1
 ### 1.2 Project Cofano*
 <details>
   <summary>Inleiding project</summary>
-  Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano dit zo snel mogelijk doen. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt. Daar gaan wij ons mee bezig houden.
+  Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano voorkomen dat de schepen onnodig lang aan de kade liggen te wachten. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt.
 </details>
 
 [Verloop van het project]()
@@ -86,9 +86,9 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 ## 3. Notebooks
 In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb. Deze notebooks zijn door mij alleen gemaakt, maar soms natuurlijk wel in overleg of met hulp van anderen.
 
-### 3.1 Foodboost*
+### 3.1 Foodboost
   - [Data preprocessing](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Data%20voorbereiden%20klein%20classificatie%20model%20Foodboost.ipynb)
-  - [Ingrediënten groeperen*](link)
+  - [Ingrediënten groeperen](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_Foodboost_categories_ingredients2-Copy1.ipynb)
   - [Lineaire Regressie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/LinaireRegressie%20Nutritions%20Foodboost.ipynb)
   - [Classificatie model(s)](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Classifier%20Tomaat%20Foodboost.ipynb)
 
@@ -133,11 +133,10 @@ In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preproces
 
 <details>
   <summary>Bijdrage andere stukken</summary>
-  Ik had in steekwoorden wat over de Conclusie en Discussie geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben. Daarnaast heb ik stukjes in de aanbevelingen geschreven (over de schaalbaarheid en rewardfunctie). In het document hieronder staan de steekwoorden en daarna de stukken zoals ze in het paper zijn gekomen.
+  Ik had in steekwoorden wat over de Conclusie en Discussie geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben. Daarnaast heb ik stukjes in de aanbevelingen geschreven (over de schaalbaarheid en rewardfunctie). In het document hieronder staan de steekwoorden en daarna de stukken zoals ze in het paper zijn gekomen. De stukken hier zijn dus maar deels door mij geschreven.
   
 [Conclusie en Discussie steekwoorden + eindresultaat](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/paper%20steekwoorden%20Conclusie%20en%20Discussie%20(1).pdf)  
-  
-  
+    
 </details>
 
 ## 6. DataCamp
