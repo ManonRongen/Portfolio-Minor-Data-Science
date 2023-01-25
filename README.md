@@ -23,7 +23,7 @@ groep 1
   Tijdens dit project hebben we ons bezig gehouden met voeding en het zoeken naar een gebalanceerd dieet met behulp van Data Science. Zelf goede recepten vinden om een dieet mee vol te houden is moeilijk en als je een app gebruikt wil je wel dat deze rekening kan houden met jouw persoonlijke voorkeuren, allergiën en dergelijke. Het is mogelijk met Data Science op basis van data te voorspellen of iemand een recept lekker vindt en samen met technieken als Lineair Programmeren is het misschien mogelijk een optimale weekplanning van recepten te maken, die rekening houdt met alle eisen (van het dieet, voor genoeg variatie + andere restricties).
 </details>
 
-[Verloop project]()
+[Verloop van het project]()
 
 ### 1.2 Project Cofano*
 <details>
@@ -31,7 +31,7 @@ groep 1
   Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano dit zo snel mogelijk doen. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt. Daar gaan wij ons mee bezig houden.
 </details>
 
-[Verloop project]()
+[Verloop van het project]()
 
 
 ## 2. Kennis en Literatuur
