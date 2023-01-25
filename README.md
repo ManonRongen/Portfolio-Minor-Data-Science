@@ -28,13 +28,13 @@ groep 1
 
 [Verloop van het project]()
 
-### 1.2 Project Cofano*
+### 1.2 Project Cofano
 <details>
   <summary>Inleiding project</summary>
   Dit project gaat over het optimaliseren van de processen bij containerterminals. Als schepen lang aan de kade liggen voor het in en uitladen van containers kost dit meer geld en dus wil het bedrijf Cofano voorkomen dat de schepen onnodig lang aan de kade liggen te wachten. Zij willen dat het vinden van een optimale aanpak geautomatiseerd wordt.
 </details>
 
-[Verloop van het project]()
+[Verloop van het project](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Cofano%20Aanpak%20en%20doelstelling.pdf)
 
 
 ## 2. Kennis en Literatuur
