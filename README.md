@@ -1,6 +1,7 @@
 # Portfolio Minor Data Science
 
 Manon Rongen,
+Toegepaste Wiskunde,
 19075235,
 groep 1
 
@@ -8,12 +9,14 @@ groep 1
 
 <details>
   <summary>Inleiding</summary>
+  Van 29 augustus 2022 tot 3 februari 2023 volg ik de minor  'Applied Data Science' aan de Haagse Hogeschool in Den Haag. Tijdens deze minor heb ik gewerkt aan twee projecten, samen met mijn groepsgenoten (groep 1), en kennis opgedaan van Machine Learning, Neurale Netwerken en heb ik me verdiept Reinforcement Learning. Het eerste project 'Foodboost' ging over voeding en tijdens het tweede project hebben we ons gefocust op het optimaliseren van terminalprocessen voor het containerbedrijf 'Cofano'. Uiteindelijk hebben wij een paper geschreven over het project 'Cofano', daarom ga ik hier net wat dieper op in in sommige stukken. In dit portfolio laat ik zien wat ik in dit half jaar geleerd heb en heb gemaakt.
   
+  Ik begon aan deze minor, omdat ik heel erg onder de indruk ben van wat je met Data Science allemaal kan en er veel interessante ontwikkelingen zijn op het gebied van Data SCience en AI. Ook wilde ik wat beter worden in het programmeren, wat ik een moeilijk onderdeel vind in mijn studie. Ik ben tevreden wat ik heb bereikt en denk dat ik nu een goede basiskennis heb van dit onderwerp.
 </details>
 
 <details>
   <summary>Inhoud</summary>
-  
+  In dit hoofdstuk vertel ik kort wat over de projecten en laat ik in een document het proces zien van ons onderzoek. Hierin staan stap voor stap de stappen die we hebben genomen en wat mijn bijdrage daarin was. In het volgende hoofdstuk licht ik toe hoe ik kennis opgedaan heb en mij heb verdiept in de onderwerpen relevant voor het project. Daarna heb ik in het derde hoofdstuk een paar van mijn Notebooks ingevoegd, waar wat Data Preprocessing en een deel Predictive Analyses in terug te zien is. Tot slot heb ik in de laatste hoofdstukken mijn bijdrage aan de presentatie en het paper omschreven en de DataCamp Courses die ik gemaakt heb bijgevoegd als schermafbeelding.
 </details>
 
 
@@ -40,7 +43,7 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 ### 2.1 Foodboost
 <details>
   <summary>Minor Data Science</summary>
-    In deze eerste periode van de minor heb ik gewerkt aan DataCamp Courses, ben ik bij de Lectures over Data Science aanwezig geweest en heb ik in NoteBooks geexpirimenteerd met het maken van Simpele Modellen. Zo ben ik me gaan verdiepen in Data Science en heb ik ook veel geleerd over Classification modellen, wat hetgene is dat we voor dit project nodig zouden hebben.
+    In deze eerste periode van de minor heb ik gewerkt aan DataCamp Courses, ben ik bij de Lectures over Data Science aanwezig geweest en heb ik in NoteBooks geexpirimenteerd met het maken van Simpele Modellen. Zo ben ik me gaan verdiepen in Data Science en heb ik ook veel geleerd over Classification modellen, wat hetgene is dat we voor dit project nodig zouden hebben. 
 </details>
 
 ### 2.2 Cofano
@@ -81,7 +84,7 @@ In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken
 
 
 ## 3. Notebooks
-In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb.
+In dit hoofdstuk laat ik zien wat ik gedaan heb op het gebied van data preprocessing en predictive analyses, aan de hand van een paar notebooks die ik gedurende de twee projecten gemaakt heb. Deze notebooks zijn door mij alleen gemaakt, maar soms natuurlijk wel in overleg of met hulp van anderen.
 
 ### 3.1 Foodboost*
   - [Data preprocessing](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Data%20voorbereiden%20klein%20classificatie%20model%20Foodboost.ipynb)
