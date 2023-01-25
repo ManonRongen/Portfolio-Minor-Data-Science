@@ -38,7 +38,12 @@ groep 1
 
 
 ## 2. Kennis en Literatuur
-In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken hadden met het project en Data Science.
+
+<details>
+  <summary> </summary>
+  In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken hadden met het project en Data Science.
+</details>
+
 
 ### 2.1 Foodboost
 <details>
