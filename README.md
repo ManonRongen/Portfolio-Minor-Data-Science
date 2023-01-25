@@ -9,9 +9,9 @@ groep 1
 
 <details>
   <summary>Inleiding</summary>
-  Van 29 augustus 2022 tot 3 februari 2023 volg ik de minor  'Applied Data Science' aan de Haagse Hogeschool in Den Haag. Tijdens deze minor heb ik gewerkt aan twee projecten, samen met mijn groepsgenoten (groep 1), en kennis opgedaan van Machine Learning, Neurale Netwerken en heb ik me verdiept Reinforcement Learning. Het eerste project 'Foodboost' ging over voeding en tijdens het tweede project hebben we ons gefocust op het optimaliseren van terminalprocessen voor het containerbedrijf 'Cofano'. Uiteindelijk hebben wij een paper geschreven over het project 'Cofano', daarom ga ik hier net wat dieper op in in sommige stukken. In dit portfolio laat ik zien wat ik in dit half jaar geleerd heb en heb gemaakt.
+  Van 29 augustus 2022 tot 3 februari 2023 volg ik de minor  'Applied Data Science' aan de Haagse Hogeschool. Tijdens deze minor heb ik gewerkt aan twee projecten, samen met mijn groepsgenoten (groep 1). Daarnaast heb ik kennis opgedaan over Machine Learning, Neurale Netwerken en heb ik me verdiept in Reinforcement Learning. Het eerste project 'Foodboost' ging over voeding en tijdens het tweede project hebben we ons bezig gehoudenmet het optimaliseren van terminalprocessen voor het containerbedrijf 'Cofano'. Uiteindelijk hebben wij een paper geschreven over het project 'Cofano', daarom ga ik hier in dit portfolio net wat dieper op in in sommige stukken. In dit portfolio laat ik zien wat ik in dit half jaar geleerd heb en heb gemaakt.
   
-  Ik begon aan deze minor, omdat ik heel erg onder de indruk ben van wat je met Data Science allemaal kan en er veel interessante ontwikkelingen zijn op het gebied van Data SCience en AI. Ook wilde ik wat beter worden in het programmeren, wat ik een moeilijk onderdeel vind in mijn studie. Ik ben tevreden wat ik heb bereikt en denk dat ik nu een goede basiskennis heb van dit onderwerp.
+  Ik schreef me in voor deze minor, omdat ik heel erg onder de indruk ben van wat je met Data Science allemaal kan en er veel interessante ontwikkelingen zijn op het gebied van Data Science en AI. Ook wilde ik wat beter worden in het programmeren, wat ik een moeilijk onderdeel vind in mijn studie. Ik ben tevreden wat ik heb bereikt en denk dat ik nu een goede basiskennis heb van dit onderwerp.
 </details>
 
 <details>
@@ -41,7 +41,7 @@ groep 1
 
 <details>
   <summary> </summary>
-  In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen die te maken hadden met het project en Data Science.
+  In dit hoofdstuk laat ik zien hoe ik me verdiept heb in onderwerpen, die te maken hadden met de projecten en Data Science.
 </details>
 
 
@@ -68,7 +68,7 @@ groep 1
   [7](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/HEURISTIC-BASED%20MODEL%20FOR%20CONTAINER%20STACKING%20PROBLEM.pdf)
   [8](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Ant%20Colony%20Optimization%20for%20Solving%20the%20Container%20Stacking%20Problem.pdf)
   [9](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/A%20Fuzzy%20Logic%20Model%20for%20the%20Container%20Stacking%20Problem%20at%20Container%20Terminals.pdf)
- 
+
 </details>
 
 <details>
@@ -80,11 +80,11 @@ groep 1
 
 <details>
   <summary>Environment maken</summary>
-  Tijdens het onderzoek doen naar RL modellen, kwamen we vaak gym environments tegen (bijvoorbeeld bij het snake en taxi voorbeeld). Ook andere groepen waren hiermee aan de slag gegaan en zeiden dat het goed te gebruiken was voor dit probleem.
+  Tijdens het onderzoek doen naar RL modellen, kwamen we vaak gym environments tegen (bijvoorbeeld bij het snake en taxi voorbeeld). Ook andere groepen waren hier mee aan de slag gegaan en zeiden dat het goed te gebruiken was voor dit probleem.
   
-  Met de volgende video heb ik geleerd hoe ik een eigen environment moet bouwen: [video](https://www.youtube.com/watch?v=Mut_u40Sqz4). Ik heb het derde project uit deze video mee gedaan en stap voor stap geprobeerd te begrijpen wat er precies gebeurd. Dat voorbeeld is te zien in dit [Notebook](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Voorbeeld%20Environment%20Douche%20Video.ipynb) en mijn [aantekeningen](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/environment%20douche%20-%20video.pdf).
+  Met de volgende video heb ik geleerd hoe ik een eigen environment moet bouwen: [video](https://www.youtube.com/watch?v=Mut_u40Sqz4). Ik heb het derde project uit deze video mee gedaan en stap voor stap geprobeerd te begrijpen wat er precies gebeurd. Dat voorbeeld is te zien in [dit Notebook](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/Voorbeeld%20Environment%20Douche%20Video.ipynb) en mijn [aantekeningen daarbij](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/environment%20douche%20-%20video.pdf).
   
-  Vervolgens gingen we allemaal aan de slag met het maken van een environment met ons probleem. Ik heb toen Jesse uit de andere groep gevraagd om ons een keer te helpen en die heeft toen nog wat tips gegeven, waarmee ik tot [deze environment code](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_simple_ENV_3x3grid.ipynb) voor een 3 bij 3 grid kwam. Later is dit nog wat uitgebreid en veel verbeterd (zoals veel uitgebreidere reward en het meegeven van de volgende container die geplaatst gaat worden aan het model), maar het werkte nu wel om een grid in te vullen zonder dubbel plaatsingen.
+  Vervolgens gingen we allemaal aan de slag met het maken van een environment bij onze situatie, een yard die gevuld moest worden met containers. Ik heb toen Jesse uit de andere groep gevraagd om ons een keer te helpen en die heeft toen nog wat tips gegeven, waarmee ik tot [deze environment code](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/P_simple_ENV_3x3grid.ipynb) voor een 3 bij 3 yard kwam. Later is dit nog wat uitgebreid en veel verbeterd (zoals een veel uitgebreidere reward functie en de volgende container, die geplaatst gaat worden, meegeven aan de observation space), maar het werkte nu wel om een grid in te vullen zonder dubbel plaatsingen.
 </details>
 
 
@@ -110,16 +110,16 @@ groep 1
 ## 4. Presentaties
 <details>
   <summary>Mijn rol</summary>
-    Op het gebied van presenteren heb ik een grote rol gespeeld. Ik nam initiatief de eerste presentatie te doen en heb daarin eigenlijk gedurende beide projecten grotendeels de leiding genomen. Ik maakte vaak de powerpoint aan en zorgde dat er taken verdeeld werden en dat we altijd iets lieten zien. Ik heb bijna alle interne presentaties gepresenteerd en ook een van de externe presentaties met joeri op me genomen. Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles erin gezet, maar stukken van de presentaties die ik gepresenteerd heb.
+    Op het gebied van presenteren heb ik een grote rol gespeeld. Ik nam initiatief de eerste presentatie te doen en heb eigenlijk gedurende beide projecten grotendeels de leiding genomen in het presenteren. Ik maakte vaak de powerpoint aan en zorgde dat er taken verdeeld werden en dat we altijd iets lieten zien. Ik heb bij een groot deel van de interne presentaties gepresenteerd en ook een van de externe presentaties met Joeri op me genomen. Hieronder een paar van de slides die ik gepresenteerd heb. Ik heb niet alles van de presentaties erin gezet, maar stukken die ik gepresenteerd heb.
 </details>
 
 ### 4.1 Foodboost
-  - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pdf)
+  - [Interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/FOODBOOST%2017-10-2022%20intern%20pres.pdf)
 
 ### 4.2 Cofano
-  - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres1%20week2%20-%20Containers%20groep%201.pdf)
-  - [interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres4%20week8%20-%20Containers%20groep%201.pdf)
-  - [externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf) met [tekst](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/manon%20-%20tekst%20externe%20presentatie%201.pdf)
+  - [Interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres1%20week2%20-%20Containers%20groep%201.pdf)
+  - [Interne presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/pres4%20week8%20-%20Containers%20groep%201.pdf)
+  - [Externe presentatie](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/week4%20EXTERN%20van%20Containers%20presentatie%20groep%201.pdf) met [mijn tekst](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/manon%20-%20tekst%20externe%20presentatie%201.pdf)
 
 
 ## 5. Paper Cofano
@@ -128,7 +128,7 @@ groep 1
 
 <details>
   <summary>Mijn rol</summary>
-  Tijdens het werken aan paper heb ik mij erg ingezet en veel input geleverd. Ik heb ervoor gezorgd, samen met joeri die ook veel initiatief nam in het organiseren, dat er duidelijke afspraken kwamen, ben bij alle werksessies volle tijd aanwezig geweest en heb mijn taken netjes op tijd afgerond. Joeri en ik hadden 9 januari samen een opzet geschreven voor het paper en die vervolgens met de groep besproken, zodat we op tijd (14 januari) feedback konden vragen van Tony. Hij heeft ons toen geholpen met het afmaken van de opzet en we hebben taken verdeeld voor de eerste stukken van het paper: Introductie zou ik doen, Onderzoeksopzet deden Hidde en Joeri, Bonno begon met de resultaten en Mohamed en Micheal gingen wat stukjes over hun eigen onderdelen schrijven. Na de vakantie zouden we samen aan de andere stukken schrijven. Ik heb toen, naast de introductie verbeteren en afmaken, gewerkt aan de conclusie en sommige aanbevelingen samen met de rest. Daarnaast heb ik het paper in meerdere fases grondig doorgelezen en veel opmerkingen geplaatst.
+  Tijdens het werken aan paper heb ik mij erg ingezet en veel input geleverd. Ik heb ervoor gezorgd, samen met joeri die ook veel initiatief nam in het organiseren, dat er duidelijke afspraken kwamen. Ik ben bij alle werksessies volle tijd aanwezig geweest en heb mijn taken netjes op tijd afgerond. Joeri en ik hadden 9 januari samen een opzet geschreven voor het paper en die vervolgens met de groep besproken, zodat we op tijd (14 januari) feedback konden vragen van Tony. Hij heeft ons toen geholpen met het afmaken van de opzet en we hebben taken verdeeld voor de eerste stukken van het paper: Introductie zou ik doen, Onderzoeksopzet deden Hidde en Joeri, Bonno begon met de resultaten en Mohamed en Micheal gingen wat stukjes over hun eigen onderdelen schrijven. Na de vakantie zouden we samen de andere stukken schrijven en beginnen met nalezen van elkaar. Ik heb toen, naast de introductie verbeterd en afgemaakt, gewerkt aan de conclusie en sommige aanbevelingen geschreven samen met de rest. Daarnaast heb ik het paper in meerdere fases grondig doorgelezen en veel opmerkingen geplaatst.
 </details>
 
 <details>
@@ -142,7 +142,7 @@ groep 1
 
 <details>
   <summary>Bijdrage andere stukken</summary>
-  Ik had in steekwoorden wat over de Conclusie en Discussie geschreven, voordat anderen dit gingen uittypen en we samen de conclusie afgemaakt hebben. Daarnaast heb ik stukjes in de aanbevelingen geschreven (over de schaalbaarheid en rewardfunctie). In het document hieronder staan de steekwoorden en daarna de stukken zoals ze in het paper zijn gekomen. De stukken hier zijn dus maar deels door mij geschreven.
+  Ik had in steekwoorden wat over de Conclusie en Discussie geschreven, voordat anderen dit gingen uittypen en we samen (Joeri grotendeels) de conclusie afgemaakt hebben. Daarnaast heb ik stukjes in de aanbevelingen geschreven (over de schaalbaarheid en rewardfunctie). In het document hieronder staan de steekwoorden en daarna de stukken zoals ze in het paper zijn gekomen. De stukken hier zijn dus maar deels door mij geschreven.
   
 [Conclusie en Discussie steekwoorden + eindresultaat](https://github.com/ManonRongen/Portfolio-Minor-Data-Science/blob/main/paper%20steekwoorden%20Conclusie%20en%20Discussie%20(1).pdf)  
     
